@@ -25,7 +25,9 @@
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirajDey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VirajDey&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajDey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajDey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VirajDey&bg_color=000000&color=84bda7&line=005726&point=4bec7b&area=true&hide_border=true)
 
 <div align="right">
   <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e478klritiytw37eyaymol0us3u4pxfzi6m618yrqza&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
