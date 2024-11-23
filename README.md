@@ -9,7 +9,7 @@
 
 
 # 💫 About Me
-👋 Hey! I'm Viraj Dey, a 3rd-year CSE student passionate about learning Software development! 🚀
+👋 Hey! I'm Viraj Dey, a 3rd-year CSE student passionate about learning Software and Web Development! 🚀
 
 👨‍💻 I'm diving into tech, learning how to create websites and apps that people love to use. From how they look to how they work, I'm exploring it all!
 
